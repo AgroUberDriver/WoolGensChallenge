@@ -1,0 +1,4 @@
+name: ChatFilter
+version: 1
+main: me.agro.chatfilter.Main
+api-version: 1.16

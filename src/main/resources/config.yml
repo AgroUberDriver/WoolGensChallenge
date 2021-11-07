@@ -1,0 +1,13 @@
+# Hello and welcome to the config.yml file!
+# I tried to simplify this as much as possible!
+
+badwords:
+  - "apples" # Example: "I like apples." > "I like ****."
+
+ratio-threshold: 65 # Only change if you know what you're doing! (Strictness of the swear detector)
+
+censor: "****" # What the filtered word will show up as
+
+console:
+  enabled-msg: true # Will send a message in console if enabled.
+  debug-mode: false # Sends messages in console! Only enable when there's an issue!
